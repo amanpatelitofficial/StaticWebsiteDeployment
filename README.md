@@ -5,9 +5,8 @@ This repository contains static website files for deploying a simple HTML/CSS we
 ## 📁 Files
 - `index.html` - Main static page
 - `style.css` - Styling for the webpage
-- `error.html` - Custom 404 error page (optional)
 
 ## 🚀 How to Use
 1. Enable static website hosting on your S3 bucket
 2. Upload the files
-3. Set `index.html` as your index document and `error.html` as the error document
+3. Set `index.html` as your index document
